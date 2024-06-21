@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@aori-io/sdk": "^0.13.4",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
